@@ -1,5 +1,5 @@
-def block_given?
-end
+#def block_given?
+#end
 
 def hello_t(array)
   if block_given?
